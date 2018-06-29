@@ -1,7 +1,6 @@
 import * as jsonfile from "jsonfile";
 import * as model from "./dataModel";
 import { Promise } from "bluebird";
-import { json } from "body-parser";
 
 export class DataBase {
     constructor(path: string) {
