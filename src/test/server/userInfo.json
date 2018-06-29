@@ -1,0 +1,10 @@
+[{
+    "name":"tester001",
+    "alias":"t001",
+    "password":"password@123"
+},
+{
+    "name":"tester002",
+    "alias":"t002",
+    "password":"password@456"
+}]

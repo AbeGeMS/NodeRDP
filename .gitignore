@@ -1,0 +1,11 @@
+#build
+debug
+dist
+
+#package
+node_modules
+package-lock.json
+
+#devenv
+.vs
+*.log
